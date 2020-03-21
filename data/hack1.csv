@@ -1,0 +1,7 @@
+,Are you feeling sick?,Are you hungry? ,Are you lonely?,Are you living alone?,Have you been out the last 5 days?
+Go out,0,0,0,0,0
+Get some drinks,0,0,0,0,1
+Do nothing,1,1,1,0,0
+Watch Netflix,1,1,0,1,1
+Call a friend,1,1,1,0,1
+Ask a doc,0,1,0,1,1
